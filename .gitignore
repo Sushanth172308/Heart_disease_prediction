@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+heat_disease_prediction_env/
 
 # Spyder project settings
 .spyderproject
